@@ -1,12 +1,27 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto web básico desarrollado utilizando Vite como herramienta de construcción, junto con React y JavaScript. El mismo muestra algunas peliculas del Studio Ghibli
 
-Currently, two official plugins are available:
+### Tecnologías utilizadas
+1. Vite – Herramienta rápida de desarrollo y build para proyectos frontend.
+2. React – Biblioteca de JavaScript para construir interfaces de usuario.
+3. JavaScript – Lenguaje principal utilizado para la lógica de la aplicación.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+### Instalación y uso
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cloná el repositorio:
+
+`git clone https://github.com/tatymediina/tp2-react-native`
+
+`cd tp2-react-native`
+
+Instalá las dependencias:
+
+`npm install`
+
+Iniciá el servidor de desarrollo:
+
+`npm run dev`
+
+Abrí en tu navegador: http://localhost:5173
